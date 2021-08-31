@@ -1,1 +1,0 @@
-SELECT * FROM dbtest.students_table;
